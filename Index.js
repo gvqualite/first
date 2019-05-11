@@ -3,6 +3,6 @@ console.log(a)
 
             var foo = {
     "bar": "baz",
-    bar: "qux"
+    bare: "qux"
 }
 console.log(foo)
