@@ -5,3 +5,4 @@ console.log(a)
     "bar": "baz",
     bar: "qux"
 }
+console.log(foo)
