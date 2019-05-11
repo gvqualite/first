@@ -1,5 +1,5 @@
 console.log("------")
-console.log(a
+console.log(a)
 
             var foo = {
     "bar": "baz",
